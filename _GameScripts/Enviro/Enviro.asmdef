@@ -1,0 +1,17 @@
+{
+	"name": "Enviro",
+	"rootNamespace": "",
+	"references": [
+		"GUID:c63b80f9855c60c459ddd4b2a58637d5",
+		"GUID:af47b49a74e921f46956a37c70f6c225"
+	],
+	"includePlatforms": [],
+	"excludePlatforms": [],
+	"allowUnsafeCode": false,
+	"overrideReferences": false,
+	"precompiledReferences": [],
+	"autoReferenced": true,
+	"defineConstraints": [],
+	"versionDefines": [],
+	"noEngineReferences": false
+}
